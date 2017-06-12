@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PGA103+
+D MMIC
+K Monolithic Amplifier
+$ENDCMP
+#
+#End Doc Library

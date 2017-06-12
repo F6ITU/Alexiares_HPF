@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RLP-40+
+D Low Pass Filter
+K MCL Filter Low-pass
+$ENDCMP
+#
+#End Doc Library

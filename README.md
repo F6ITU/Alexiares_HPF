@@ -1,6 +1,5 @@
 # Alexiares_HPF
 This repository contains the High Pass Filter project of the OpenHPSDR Alexiares frontend
-# Alexandrie
 
 This work is protected by the TAPR Open Hardware Licence https://www.tapr.org/ohl.html
 

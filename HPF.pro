@@ -1,4 +1,4 @@
-update=14/09/2017 16:45:13
+update=07/11/2017 09:15:58
 version=1
 last_client=kicad
 [pcbnew]
@@ -39,3 +39,13 @@ LibName7=Libraries/Kemet_Relay/ee2-5nu
 LibName8=Libraries/MMIC/pga103+
 LibName9=Libraries/Filter/rlp-40+
 LibName10=Libraries/Regulateurs/7805d-pack
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

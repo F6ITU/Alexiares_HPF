@@ -7,3 +7,17 @@ Original work by Graham Haddock, KE9H and Phil Harman, VK6APH.
 
 THIS PROJET IS STILL UNDER DEVELOPMENT, DO NOT DOWNLOAD IT UNLESS YOU INTEND TO FORK AND WORK ON IT
 
+Board's dimensions are undersized to fit the 10x10cm 
+size of all board of the Hermes project under Kicad: 
+
+AlexI2C
+
+Alexandrie
+
+Alexiares_Coax_Out 
+
+Alexiares_HPF (this one)
+
+Alexiares_LPF
+
+Mentor

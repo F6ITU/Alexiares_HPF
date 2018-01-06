@@ -47,9 +47,9 @@ Wire Wire Line
 	6100 11100 5800 11100
 Connection ~ 1100 9300
 Text Notes 7350 14550 0    197  ~ 39
-HPF \nOut
+HPF \nIN
 Text Notes 6550 5250 0    197  ~ 39
-HPF\nIN
+HPF\nout\n
 Wire Wire Line
 	1100 1300 1100 12800
 Wire Wire Line
@@ -3574,7 +3574,7 @@ F 3 "" H 9900 1550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 6350 14450 0    60   ~ 0
-To RX conn Brd\n
+To RX Coax Out\n
 $Comp
 L +12V #PWR0111
 U 1 1 5A039E9A
@@ -3779,8 +3779,6 @@ F 3 "" H 6250 6100 50  0001 C CNN
 	1    6250 6100
 	1    0    0    -1  
 $EndComp
-Text Notes 7100 6650 1    118  Italic 24
-to lpf 60MHz/\nPS-RX switch
 Wire Wire Line
 	6100 6100 5800 6100
 $Comp

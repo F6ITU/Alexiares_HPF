@@ -3,7 +3,7 @@
   (general
     (links 1030)
     (no_connects 0)
-    (area 89.924999 12.424999 190.075001 112.575001)
+    (area 89.157143 12.025 191.842858 121.775001)
     (thickness 1.6)
     (drawings 16)
     (tracks 1845)
@@ -12269,8 +12269,8 @@
       (net 2 GND))
     (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1.5) (layers *.Cu *.Mask)
       (net 54 "Net-(D2-Pad1)"))
-    (model ../../../../../../Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty/packages3d/SMA_PINS/SMA_PINS.wrl
-      (at (xyz 0 0 0))
+    (model ../../../../../../Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl
+      (at (xyz 0 -0.17 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -13256,8 +13256,8 @@
       (net 2 GND))
     (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1.5) (layers *.Cu *.Mask)
       (net 65 "Net-(J1-Pad1)"))
-    (model ../../../../../../Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty/packages3d/SMA_PINS/SMA_PINS.wrl
-      (at (xyz 0 0 0))
+    (model ../../../../../../Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl
+      (at (xyz 0 -0.17 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )

@@ -2928,25 +2928,25 @@ F 3 "" H 9100 2200 50  0000 C CNN
 	1    9100 2200
 	0    1    1    0   
 $EndComp
-Text Notes 7200 1200 0    39   ~ 0
+Text Notes 7100 1250 0    39   ~ 0
 20HPF\n
-Text Notes 7200 1300 0    39   ~ 0
+Text Notes 7100 1350 0    39   ~ 0
 13HPF\n
-Text Notes 7150 1400 0    39   ~ 0
+Text Notes 7050 1450 0    39   ~ 0
 9.6 HPF\n
-Text Notes 7150 1500 0    39   ~ 0
+Text Notes 7050 1550 0    39   ~ 0
 6.5HPF\n
-Text Notes 7150 1600 0    39   ~ 0
+Text Notes 7050 1650 0    39   ~ 0
 1.5HPF\n
-Text Notes 7200 1700 0    39   ~ 0
+Text Notes 7100 1750 0    39   ~ 0
 6MLNA
-Text Notes 7150 1800 0    39   ~ 0
+Text Notes 7050 1850 0    39   ~ 0
 RX2GND\n
-Text Notes 7050 1900 0    39   ~ 0
+Text Notes 6950 1950 0    39   ~ 0
 HPFBYPASS\n
-Text Notes 7250 2000 0    39   ~ 0
+Text Notes 7150 2050 0    39   ~ 0
 +12\n
-Text Notes 7250 2100 0    39   ~ 0
+Text Notes 7150 2150 0    39   ~ 0
 GND\n
 Text GLabel 9100 1400 2    39   Input ~ 0
 1.5HPF

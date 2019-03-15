@@ -1,4 +1,4 @@
-update=11/03/2019 18:56:19
+update=14/09/2018 19:16:23
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,20 @@ version=1
 NetIExt=net
 [general]
 version=1
+[eeschema]
+version=1
+LibDir=
+[eeschema/libraries]
+LibName1=HPF-rescue
+LibName2=Libraries/Kemet_Relay/ee2-5nu
+LibName3=Libraries/MMIC/pga103+
+LibName4=Libraries/Filter/rlp-40+
+LibName5=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Analog
+LibName6=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Connector_Generic
+LibName7=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Device
+LibName8=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Diode
+LibName9=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/power
+LibName10=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Regulator_Linear
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -35,6 +49,3 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
-[eeschema]
-version=1
-LibDir=

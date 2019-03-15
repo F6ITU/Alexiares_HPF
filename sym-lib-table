@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name HPF-rescue)(type Legacy)(uri ${KIPRJMOD}/HPF-rescue.lib)(options "")(descr ""))
+  (lib (name ee2-5nu)(type Legacy)(uri ${KIPRJMOD}/Libraries/Kemet_Relay/ee2-5nu.lib)(options "")(descr ""))
+  (lib (name pga103+)(type Legacy)(uri ${KIPRJMOD}/Libraries/MMIC/pga103+.lib)(options "")(descr ""))
+  (lib (name rlp-40+)(type Legacy)(uri ${KIPRJMOD}/Libraries/Filter/rlp-40+.lib)(options "")(descr ""))
+)
